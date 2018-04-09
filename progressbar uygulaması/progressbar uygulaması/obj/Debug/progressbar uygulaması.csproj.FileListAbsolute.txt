@@ -1,0 +1,20 @@
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.exe.config
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.exe
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.pdb
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Form1.resources
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Form2.resources
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Properties.Resources.resources
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.csproj.GenerateResource.Cache
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.exe
+C:\Users\Lab1\Desktop\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.pdb
+E:\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.exe.config
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.exe
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.pdb
+E:\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.exe
+E:\progressbar uygulaması\progressbar uygulaması\bin\Debug\progressbar uygulaması.pdb
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.csprojResolveAssemblyReference.cache
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Form1.resources
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Form2.resources
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar_uygulaması.Properties.Resources.resources
+E:\progressbar uygulaması\progressbar uygulaması\obj\Debug\progressbar uygulaması.csproj.GenerateResource.Cache
