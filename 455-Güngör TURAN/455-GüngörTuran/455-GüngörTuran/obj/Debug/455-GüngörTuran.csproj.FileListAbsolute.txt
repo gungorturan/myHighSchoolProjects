@@ -1,0 +1,41 @@
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe.config
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.pdb
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csprojResolveAssemblyReference.cache
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Form1.resources
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Properties.Resources.resources
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.GenerateResource.Cache
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.exe
+C:\Users\Lab1\Desktop\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.pdb
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe.config
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.pdb
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csprojResolveAssemblyReference.cache
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Form1.resources
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Properties.Resources.resources
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.GenerateResource.Cache
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.CoreCompileInputs.cache
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.exe
+I:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.pdb
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe.config
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.exe
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.pdb
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.pdb
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csprojResolveAssemblyReference.cache
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Form1.resources
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Properties.Resources.resources
+E:\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.GenerateResource.Cache
+D:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe.config
+D:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.exe
+D:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.pdb
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe.config
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.exe
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\bin\Debug\455-GüngörTuran.pdb
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csprojResolveAssemblyReference.cache
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Form1.resources
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\_455_GüngörTuran.Properties.Resources.resources
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.GenerateResource.Cache
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.csproj.CoreCompileInputs.cache
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.exe
+F:\NTP-Ders İçi\455-Güngör TURAN\455-GüngörTuran\455-GüngörTuran\obj\Debug\455-GüngörTuran.pdb
