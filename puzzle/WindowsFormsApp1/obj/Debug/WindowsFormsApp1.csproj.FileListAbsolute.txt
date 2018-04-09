@@ -1,0 +1,29 @@
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Güngör\source\repos\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\NTP-Ders Dışı\puzzle\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
