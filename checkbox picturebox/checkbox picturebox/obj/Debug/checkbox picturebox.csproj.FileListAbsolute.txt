@@ -1,0 +1,28 @@
+D:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe.config
+D:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe
+D:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.pdb
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csprojResolveAssemblyReference.cache
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Form1.resources
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Properties.Resources.resources
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csproj.GenerateResource.Cache
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.exe
+D:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.pdb
+I:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe.config
+I:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe
+I:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.pdb
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csprojResolveAssemblyReference.cache
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Form1.resources
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Properties.Resources.resources
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csproj.GenerateResource.Cache
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csproj.CoreCompileInputs.cache
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.exe
+I:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.pdb
+E:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe.config
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.exe
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.pdb
+E:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.exe
+E:\checkbox picturebox\checkbox picturebox\bin\Debug\checkbox picturebox.pdb
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csprojResolveAssemblyReference.cache
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Form1.resources
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox_picturebox.Properties.Resources.resources
+E:\checkbox picturebox\checkbox picturebox\obj\Debug\checkbox picturebox.csproj.GenerateResource.Cache
