@@ -1,0 +1,10 @@
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\bin\Debug\ivmeliTop.exe.config
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\bin\Debug\ivmeliTop.exe
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\bin\Debug\ivmeliTop.pdb
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.csprojResolveAssemblyReference.cache
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.Form1.resources
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.Properties.Resources.resources
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.csproj.GenerateResource.Cache
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.csproj.CoreCompileInputs.cache
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.exe
+C:\Users\Güngör\Desktop\project\ivmeliTop\ivmeliTop\obj\Debug\ivmeliTop.pdb
