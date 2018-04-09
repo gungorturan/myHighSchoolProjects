@@ -1,0 +1,19 @@
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.exe.config
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.exe
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.pdb
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.Form1.resources
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.Properties.Resources.resources
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.exe
+C:\Users\MSI\Desktop\DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.pdb
+E:\ \DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.exe.config
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.exe
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.pdb
+E:\ \DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.exe
+E:\ \DokanmaYanarsın\DokanmaYanarsın\bin\Debug\DokanmaYanarsın.pdb
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.csprojResolveAssemblyReference.cache
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.Form1.resources
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.Properties.Resources.resources
+E:\ \DokanmaYanarsın\DokanmaYanarsın\obj\Debug\DokanmaYanarsın.csproj.GenerateResource.Cache
