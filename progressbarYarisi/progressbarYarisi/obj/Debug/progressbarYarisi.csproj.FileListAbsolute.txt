@@ -1,0 +1,13 @@
+D:\progressbarYarisi\progressbarYarisi\bin\Debug\progressbarYarisi.exe.config
+D:\progressbarYarisi\progressbarYarisi\bin\Debug\progressbarYarisi.exe
+D:\progressbarYarisi\progressbarYarisi\bin\Debug\progressbarYarisi.pdb
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.csprojResolveAssemblyReference.cache
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.Form1.resources
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.Form2.resources
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.Properties.Resources.resources
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.csproj.GenerateResource.Cache
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.exe
+D:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.pdb
+E:\progressbarYarisi\progressbarYarisi\bin\Debug\progressbarYarisi.exe.config
+E:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.exe
+E:\progressbarYarisi\progressbarYarisi\obj\Debug\progressbarYarisi.pdb
